@@ -1,6 +1,4 @@
 # Lifi_arduino 
 
-Setup the two arduinos as shown in the schematic below:
-![Schematic](C:\Users\Dr. KSM\Downloads\Github\2 code\Blank diagram.png)
 
-Upload the Transmitter code and Receiver code to the respective arduinos.
+![Blank diagram](https://github.com/user-attachments/assets/044555b2-fc8b-4824-a5cd-dca0b4d350b6)
